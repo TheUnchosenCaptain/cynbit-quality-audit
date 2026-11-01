@@ -1,0 +1,20 @@
+{
+  "name": "cynbit-audit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "lighthouse": "^13.6.0",
+    "marked": "^18.1.2",
+    "pa11y": "^10.0.0",
+    "playwright": "^1.64.1"
+  }
+}

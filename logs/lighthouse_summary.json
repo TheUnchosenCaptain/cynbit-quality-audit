@@ -1,0 +1,1094 @@
+[
+  {
+    "page": "home",
+    "url": "https://www.cynbit.in/",
+    "mode": "mobile",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 51,
+      "accessibility": 82,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 1883,
+      "lcpMs": 11045,
+      "cls": 0.013,
+      "tbtMs": 840,
+      "ttfbMs": 43
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 122 KiB",
+        "numericValue": 600,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198965,
+            "wastedBytes": 80656,
+            "wastedPercent": 40.537739139591054
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 22792,
+            "wastedPercent": 52.11276443872709
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+            "totalBytes": 21579,
+            "wastedBytes": 21418,
+            "wastedPercent": 99.2543670416957
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 51,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11045,
+        "cls": 0.013,
+        "tbtMs": 840
+      },
+      {
+        "run": 2,
+        "perf": 56,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 10758,
+        "cls": 0.013,
+        "tbtMs": 599
+      },
+      {
+        "run": 3,
+        "perf": 49,
+        "a11y": 83,
+        "bp": 100,
+        "seo": 92,
+        "lcpMs": 11220,
+        "cls": 0.013,
+        "tbtMs": 864
+      }
+    ]
+  },
+  {
+    "page": "home",
+    "url": "https://www.cynbit.in/",
+    "mode": "desktop",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 84,
+      "accessibility": 82,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 951,
+      "lcpMs": 2510,
+      "cls": 0.004,
+      "tbtMs": 61,
+      "ttfbMs": 79
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 122 KiB",
+        "numericValue": 120,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198965,
+            "wastedBytes": 80688,
+            "wastedPercent": 40.553698231666786
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 22792,
+            "wastedPercent": 52.11276443872709
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+            "totalBytes": 21579,
+            "wastedBytes": 21418,
+            "wastedPercent": 99.2543670416957
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 87,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2300,
+        "cls": 0.004,
+        "tbtMs": 61
+      },
+      {
+        "run": 2,
+        "perf": 84,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2510,
+        "cls": 0.004,
+        "tbtMs": 16
+      },
+      {
+        "run": 3,
+        "perf": 82,
+        "a11y": 83,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2584,
+        "cls": 0.004,
+        "tbtMs": 82
+      }
+    ]
+  },
+  {
+    "page": "contact",
+    "url": "https://www.cynbit.in/contact",
+    "mode": "mobile",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 57,
+      "accessibility": 90,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 1901,
+      "lcpMs": 11031,
+      "cls": 0,
+      "tbtMs": 533,
+      "ttfbMs": 71
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 123 KiB",
+        "numericValue": 450,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198965,
+            "wastedBytes": 80688,
+            "wastedPercent": 40.553698231666786
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 24288,
+            "wastedPercent": 55.533505377018834
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+            "totalBytes": 21579,
+            "wastedBytes": 21418,
+            "wastedPercent": 99.2543670416957
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 57,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11260,
+        "cls": 0,
+        "tbtMs": 489
+      },
+      {
+        "run": 2,
+        "perf": 58,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11012,
+        "cls": 0,
+        "tbtMs": 533
+      },
+      {
+        "run": 3,
+        "perf": 53,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11031,
+        "cls": 0,
+        "tbtMs": 823
+      }
+    ]
+  },
+  {
+    "page": "contact",
+    "url": "https://www.cynbit.in/contact",
+    "mode": "desktop",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 88,
+      "accessibility": 82,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 623,
+      "lcpMs": 2255,
+      "cls": 0.004,
+      "tbtMs": 57,
+      "ttfbMs": 29
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 123 KiB",
+        "numericValue": 80,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198957,
+            "wastedBytes": 80653,
+            "wastedPercent": 40.537739139591054
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 24288,
+            "wastedPercent": 55.533505377018834
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+            "totalBytes": 21579,
+            "wastedBytes": 21418,
+            "wastedPercent": 99.2543670416957
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 83,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2468,
+        "cls": 0.004,
+        "tbtMs": 122
+      },
+      {
+        "run": 2,
+        "perf": 91,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 1873,
+        "cls": 0.004,
+        "tbtMs": 57
+      },
+      {
+        "run": 3,
+        "perf": 88,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2255,
+        "cls": 0.004,
+        "tbtMs": 29
+      }
+    ]
+  },
+  {
+    "page": "services",
+    "url": "https://www.cynbit.in/services",
+    "mode": "mobile",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 58,
+      "accessibility": 90,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 1740,
+      "lcpMs": 11136,
+      "cls": 0.013,
+      "tbtMs": 583,
+      "ttfbMs": 31
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 114 KiB",
+        "numericValue": 600,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198965,
+            "wastedBytes": 71278,
+            "wastedPercent": 35.82421306868662
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 24039,
+            "wastedPercent": 54.9648199424255
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+            "totalBytes": 21579,
+            "wastedBytes": 21418,
+            "wastedPercent": 99.2543670416957
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 58,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11136,
+        "cls": 0.013,
+        "tbtMs": 583
+      },
+      {
+        "run": 2,
+        "perf": 54,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11217,
+        "cls": 0.013,
+        "tbtMs": 663
+      },
+      {
+        "run": 3,
+        "perf": 58,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 10916,
+        "cls": 0,
+        "tbtMs": 548
+      }
+    ]
+  },
+  {
+    "page": "services",
+    "url": "https://www.cynbit.in/services",
+    "mode": "desktop",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 84,
+      "accessibility": 90,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 752,
+      "lcpMs": 2642,
+      "cls": 0.004,
+      "tbtMs": 86,
+      "ttfbMs": 69
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 114 KiB",
+        "numericValue": 120,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198965,
+            "wastedBytes": 71278,
+            "wastedPercent": 35.82421306868662
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 24039,
+            "wastedPercent": 54.9648199424255
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+            "totalBytes": 21579,
+            "wastedBytes": 21418,
+            "wastedPercent": 99.2543670416957
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 87,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2260,
+        "cls": 0.004,
+        "tbtMs": 86
+      },
+      {
+        "run": 2,
+        "perf": 72,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2930,
+        "cls": 0.004,
+        "tbtMs": 247
+      },
+      {
+        "run": 3,
+        "perf": 84,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2642,
+        "cls": 0.004,
+        "tbtMs": 74
+      }
+    ]
+  },
+  {
+    "page": "careers",
+    "url": "https://www.cynbit.in/careers",
+    "mode": "mobile",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 59,
+      "accessibility": 90,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 1997,
+      "lcpMs": 11162,
+      "cls": 0.008,
+      "tbtMs": 464,
+      "ttfbMs": 78
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 124 KiB",
+        "numericValue": 600,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198965,
+            "wastedBytes": 80656,
+            "wastedPercent": 40.537739139591054
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 25005,
+            "wastedPercent": 57.17367260975629
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+            "totalBytes": 21579,
+            "wastedBytes": 21418,
+            "wastedPercent": 99.2543670416957
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 59,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11132,
+        "cls": 0.008,
+        "tbtMs": 464
+      },
+      {
+        "run": 2,
+        "perf": 56,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11162,
+        "cls": 0.008,
+        "tbtMs": 702
+      },
+      {
+        "run": 3,
+        "perf": 61,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11172,
+        "cls": 0.008,
+        "tbtMs": 427
+      }
+    ]
+  },
+  {
+    "page": "careers",
+    "url": "https://www.cynbit.in/careers",
+    "mode": "desktop",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 86,
+      "accessibility": 90,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 716,
+      "lcpMs": 2393,
+      "cls": 0.004,
+      "tbtMs": 72,
+      "ttfbMs": 33
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 124 KiB",
+        "numericValue": 90,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198965,
+            "wastedBytes": 80819,
+            "wastedPercent": 40.61983797408375
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 25005,
+            "wastedPercent": 57.17367260975629
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+            "totalBytes": 21579,
+            "wastedBytes": 21418,
+            "wastedPercent": 99.2543670416957
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 86,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2219,
+        "cls": 0.004,
+        "tbtMs": 19
+      },
+      {
+        "run": 2,
+        "perf": 86,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2393,
+        "cls": 0.004,
+        "tbtMs": 72
+      },
+      {
+        "run": 3,
+        "perf": 85,
+        "a11y": 90,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2430,
+        "cls": 0.004,
+        "tbtMs": 96
+      }
+    ]
+  },
+  {
+    "page": "bitelevate",
+    "url": "https://www.cynbit.in/bitelevate",
+    "mode": "mobile",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 55,
+      "accessibility": 82,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 2078,
+      "lcpMs": 11251,
+      "cls": 0.014,
+      "tbtMs": 533,
+      "ttfbMs": 406
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 102 KiB",
+        "numericValue": 450,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198965,
+            "wastedBytes": 80688,
+            "wastedPercent": 40.553698231666786
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 23923,
+            "wastedPercent": 54.698126083443796
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 49,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11393,
+        "cls": 0.014,
+        "tbtMs": 513
+      },
+      {
+        "run": 2,
+        "perf": 58,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 5010,
+        "cls": 0.055,
+        "tbtMs": 796
+      },
+      {
+        "run": 3,
+        "perf": 55,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 11251,
+        "cls": 0,
+        "tbtMs": 533
+      }
+    ]
+  },
+  {
+    "page": "bitelevate",
+    "url": "https://www.cynbit.in/bitelevate",
+    "mode": "desktop",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 81,
+      "accessibility": 82,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 945,
+      "lcpMs": 2661,
+      "cls": 0.065,
+      "tbtMs": 27,
+      "ttfbMs": 62
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 102 KiB",
+        "numericValue": 160,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198965,
+            "wastedBytes": 80176,
+            "wastedPercent": 40.29670749123073
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 23975,
+            "wastedPercent": 54.81735392628268
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 81,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2737,
+        "cls": 0.065,
+        "tbtMs": 29
+      },
+      {
+        "run": 2,
+        "perf": 88,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2261,
+        "cls": 0.004,
+        "tbtMs": 27
+      },
+      {
+        "run": 3,
+        "perf": 81,
+        "a11y": 82,
+        "bp": 100,
+        "seo": 92,
+        "lcpMs": 2661,
+        "cls": 0.065,
+        "tbtMs": 8
+      }
+    ]
+  },
+  {
+    "page": "blog",
+    "url": "https://www.cynbit.in/blog",
+    "mode": "mobile",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 58,
+      "accessibility": 86,
+      "bestPractices": 100,
+      "seo": 100
+    },
+    "medianMetrics": {
+      "fcpMs": 1998,
+      "lcpMs": 12170,
+      "cls": 0.008,
+      "tbtMs": 517,
+      "ttfbMs": 78
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 124 KiB",
+        "numericValue": 750,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198965,
+            "wastedBytes": 80688,
+            "wastedPercent": 40.553698231666786
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 25005,
+            "wastedPercent": 57.17367260975629
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+            "totalBytes": 21579,
+            "wastedBytes": 21418,
+            "wastedPercent": 99.2543670416957
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 58,
+        "a11y": 86,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 12294,
+        "cls": 0,
+        "tbtMs": 517
+      },
+      {
+        "run": 2,
+        "perf": 57,
+        "a11y": 86,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 12170,
+        "cls": 0.008,
+        "tbtMs": 591
+      },
+      {
+        "run": 3,
+        "perf": 60,
+        "a11y": 86,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 12169,
+        "cls": 0.008,
+        "tbtMs": 470
+      }
+    ]
+  },
+  {
+    "page": "blog",
+    "url": "https://www.cynbit.in/blog",
+    "mode": "desktop",
+    "runsCount": 3,
+    "medianScores": {
+      "performance": 84,
+      "accessibility": 86,
+      "bestPractices": 100,
+      "seo": 92
+    },
+    "medianMetrics": {
+      "fcpMs": 876,
+      "lcpMs": 2567,
+      "cls": 0.004,
+      "tbtMs": 16,
+      "ttfbMs": 52
+    },
+    "topDiagnostics": {
+      "renderBlocking": null,
+      "responsiveImages": null,
+      "offscreenImages": null,
+      "unusedCss": {
+        "title": "Reduce unused CSS",
+        "score": 1,
+        "displayValue": "",
+        "numericValue": 0,
+        "details": []
+      },
+      "unusedJs": {
+        "title": "Reduce unused JavaScript",
+        "score": 0,
+        "displayValue": "Est savings of 124 KiB",
+        "numericValue": 120,
+        "details": [
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-LK6CQWCWX0",
+            "totalBytes": 198957,
+            "wastedBytes": 80653,
+            "wastedPercent": 40.537739139591054
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+            "totalBytes": 43736,
+            "wastedBytes": 25005,
+            "wastedPercent": 57.17367260975629
+          },
+          {
+            "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+            "totalBytes": 21579,
+            "wastedBytes": 21418,
+            "wastedPercent": 99.2543670416957
+          }
+        ]
+      },
+      "fontDisplay": null,
+      "thirdParty": null,
+      "layoutShifts": null
+    },
+    "allRuns": [
+      {
+        "run": 1,
+        "perf": 81,
+        "a11y": 86,
+        "bp": 100,
+        "seo": 92,
+        "lcpMs": 2734,
+        "cls": 0.004,
+        "tbtMs": 16
+      },
+      {
+        "run": 2,
+        "perf": 84,
+        "a11y": 86,
+        "bp": 100,
+        "seo": 92,
+        "lcpMs": 2567,
+        "cls": 0.004,
+        "tbtMs": 9
+      },
+      {
+        "run": 3,
+        "perf": 86,
+        "a11y": 86,
+        "bp": 100,
+        "seo": 100,
+        "lcpMs": 2369,
+        "cls": 0.004,
+        "tbtMs": 28
+      }
+    ]
+  }
+]

@@ -1,0 +1,711 @@
+{
+  "total_pages_audited": 82,
+  "title_issues": [
+    {
+      "url": "https://www.cynbit.in",
+      "issue": "Title exceeds 70 chars (89 chars): 'Cynbit Technologies | AI Automation &amp; Software Solutions Jaipur | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/story",
+      "issue": "Title exceeds 70 chars (71 chars): 'Our Story | The Vision Behind Cynbit Technologies | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/contact",
+      "issue": "Title exceeds 70 chars (84 chars): 'Contact Us | Cynbit Technologies - AI &amp; Software Solutions | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/services",
+      "issue": "Title exceeds 70 chars (71 chars): 'AI Automation &amp; Software Development Services | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/products",
+      "issue": "Title exceeds 70 chars (88 chars): 'Proprietary Software Suite | Cynbit Studio, TenantEase &amp; Revio | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/impact",
+      "issue": "Title exceeds 70 chars (83 chars): 'Social Impact | BitElevate &amp; Manav Seva Trust Partnership | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/bitelevate",
+      "issue": "Title exceeds 70 chars (78 chars): 'BitElevate: Remote Internships &amp; Real-World Projects | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/bitelevate/paths",
+      "issue": "Title exceeds 70 chars (77 chars): 'Design Your Own Career | Personalized Engineering Paths | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/best-crm-automation-strategies",
+      "issue": "Title exceeds 70 chars (99 chars): 'Best CRM Automation Strategies for Modern Companies in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/future-ai-customer-support",
+      "issue": "Title exceeds 70 chars (85 chars): 'Future of AI-Powered Customer Support Systems | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/top-web-development-trends-2026",
+      "issue": "Title exceeds 70 chars (74 chars): 'Top Web Development Trends in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-digital-marketing-revolution",
+      "issue": "Title exceeds 70 chars (91 chars): 'How AI is Revolutionizing Digital Marketing in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/data-privacy-advantage",
+      "issue": "Title exceeds 70 chars (80 chars): 'Data Privacy as a Competitive Advantage. | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-first-learning",
+      "issue": "Title exceeds 70 chars (81 chars): 'The Rise of AI-First Learning Ecosystems. | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/serverless-mesh-future",
+      "issue": "Title exceeds 70 chars (85 chars): 'Serverless Mesh: The Future of Cloud Scaling. | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/inclusive-digital-communities",
+      "issue": "Title exceeds 70 chars (79 chars): 'Building Inclusive Digital Communities. | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-automation-trends-2026",
+      "issue": "Title exceeds 70 chars (88 chars): 'Best AI Automation Trends for Businesses in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-social-media-automation",
+      "issue": "Title exceeds 70 chars (91 chars): 'How AI Can Automate Social Media Management in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-agents-business-operations",
+      "issue": "Title exceeds 70 chars (98 chars): 'How AI Agents Are Transforming Business Operations in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-transforming-hiring-recruitment",
+      "issue": "Title exceeds 70 chars (93 chars): 'How AI is Transforming Hiring and Recruitment in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/small-business-ai-automation",
+      "issue": "Title exceeds 70 chars (93 chars): 'How Small Businesses Can Automate Operations Using AI | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/best-automation-tools-2026",
+      "issue": "Title exceeds 70 chars (78 chars): 'Best Business Automation Tools in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/efficiency-killing-transformation",
+      "issue": "Title exceeds 70 chars (106 chars): 'Why &quot;Efficiency&quot; is Killing Your Digital Transformation. | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/why-startups-need-custom-dashboards",
+      "issue": "Title exceeds 70 chars (90 chars): 'Why Every Startup Needs a Custom Dashboard in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/document-extraction-ai-benefits",
+      "issue": "Title exceeds 70 chars (95 chars): 'How Document Extraction AI Saves Time and Money in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-vs-traditional-software",
+      "issue": "Title exceeds 70 chars (86 chars): 'AI vs Traditional Software Development in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-lead-generation",
+      "issue": "Title exceeds 70 chars (94 chars): 'How Companies Are Using AI for Lead Generation in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/best-ai-tools-startups",
+      "issue": "Title exceeds 70 chars (74 chars): 'Best AI Tools for Startups in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/future-saas-development",
+      "issue": "Title exceeds 70 chars (82 chars): 'Future of SaaS Development with AI in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-chatbots-vs-human-support",
+      "issue": "Title exceeds 70 chars (98 chars): 'AI Chatbots vs Human Support: What Businesses Need in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/top-productivity-automation-ideas",
+      "issue": "Title exceeds 70 chars (96 chars): 'Top Productivity Automation Ideas for Businesses in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/why-data-dashboards-essential",
+      "issue": "Title exceeds 70 chars (102 chars): 'Why Data Dashboards Are Essential for Modern Companies in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-powered-business-guide",
+      "issue": "Title exceeds 70 chars (97 chars): 'Complete Guide to Building an AI-Powered Business in 2026 | Cynbit Insights | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/retail-seo-growth",
+      "issue": "Missing <title> tag"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/social-media-brand-intern",
+      "issue": "Title exceeds 70 chars (73 chars): 'Social Media &amp; Brand Intern | Careers at Cynbit | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/campus-ambassador-campus-relations-intern",
+      "issue": "Title exceeds 70 chars (85 chars): 'Campus Ambassador / Campus Relations Intern | Careers at Cynbit | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/hr-talent-acquisition-intern",
+      "issue": "Title exceeds 70 chars (76 chars): 'HR &amp; Talent Acquisition Intern | Careers at Cynbit | Cynbit Technologies'"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/business-development-executive",
+      "issue": "Title exceeds 70 chars (72 chars): 'Business Development Executive | Careers at Cynbit | Cynbit Technologies'"
+    }
+  ],
+  "meta_description_issues": [
+    {
+      "url": "https://www.cynbit.in",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/bitelevate",
+      "issue": "Meta description too long (254 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/bitelevate/paths",
+      "issue": "Meta description too long (211 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-automation-trends-2026",
+      "issue": "Meta description too long (172 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-social-media-automation",
+      "issue": "Meta description too long (174 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-transforming-hiring-recruitment",
+      "issue": "Meta description too long (176 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-vs-traditional-software",
+      "issue": "Meta description too long (171 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/future-saas-development",
+      "issue": "Meta description too long (175 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-powered-business-guide",
+      "issue": "Meta description too long (168 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/urban-wardrobe-ar-integration",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/cloudy-tales-collaboration",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/econtentprep-adaptive-learning",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/sofiasa-erp-modernization",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/wild-basil-supply-chain",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/pragya-healths-remote-monitoring",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/wizhealth-ai-diagnostic",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/fintech-payments-evolution",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/evento-ticketing-scalability",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/fashion-headless-commerce",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/marketing-addict-ai-optimization",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/healthcare-cloud-migration",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/retail-seo-growth",
+      "issue": "Missing meta description"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/growth-marketing-intern",
+      "issue": "Meta description too short (65 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/social-media-brand-intern",
+      "issue": "Meta description too short (57 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/campus-ambassador-campus-relations-intern",
+      "issue": "Meta description too short (67 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/business-development-intern",
+      "issue": "Meta description too short (57 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/ai-engineer",
+      "issue": "Meta description too short (53 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/backend-developer",
+      "issue": "Meta description too short (56 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/devops-cloud-engineer",
+      "issue": "Meta description too short (46 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/marketing-executive",
+      "issue": "Meta description too short (46 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/hr-talent-acquisition-intern",
+      "issue": "Meta description too short (42 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/growth-manager",
+      "issue": "Meta description too short (50 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/content-strategist",
+      "issue": "Meta description too short (35 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/business-development-executive",
+      "issue": "Meta description too short (37 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/full-stack-developer",
+      "issue": "Meta description too short (64 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/loneliness-in-college",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/busy-not-smart",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/no-direction-after-four-years",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/hostel-nights-heart-to-hearts",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/silent-battle-self-doubt",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/perfect-timeline-myth",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/attendance-chase",
+      "issue": "Meta description too long (197 chars)"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/hustle-culture-side-effects",
+      "issue": "Meta description too long (197 chars)"
+    }
+  ],
+  "canonical_issues": [
+    {
+      "url": "https://www.cynbit.in",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/story",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/team",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/contact",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/services",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/products",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/impact",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/bitelevate",
+      "canonical": "https://cynbit.in/bitelevate",
+      "issue": "Canonical mismatch: page served on www.cynbit.in points canonical to bare cynbit.in"
+    },
+    {
+      "url": "https://www.cynbit.in/bitelevate/paths",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/privacy",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/terms",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/cookies",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/best-crm-automation-strategies",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/future-ai-customer-support",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/top-web-development-trends-2026",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-digital-marketing-revolution",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/data-privacy-advantage",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-first-learning",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/serverless-mesh-future",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/inclusive-digital-communities",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-automation-trends-2026",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-social-media-automation",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-agents-business-operations",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-transforming-hiring-recruitment",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/small-business-ai-automation",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/best-automation-tools-2026",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/efficiency-killing-transformation",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/why-startups-need-custom-dashboards",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/document-extraction-ai-benefits",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-vs-traditional-software",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-lead-generation",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/best-ai-tools-startups",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/future-saas-development",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-chatbots-vs-human-support",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/top-productivity-automation-ideas",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/why-data-dashboards-essential",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/blog/ai-powered-business-guide",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/urban-wardrobe-ar-integration",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/cloudy-tales-collaboration",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/econtentprep-adaptive-learning",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/sofiasa-erp-modernization",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/wild-basil-supply-chain",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/pragya-healths-remote-monitoring",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/wizhealth-ai-diagnostic",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/fintech-payments-evolution",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/evento-ticketing-scalability",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/fashion-headless-commerce",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/marketing-addict-ai-optimization",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/healthcare-cloud-migration",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/case-studies/retail-seo-growth",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/backend-developer-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/ui-ux-design-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/qa-testing-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/digital-marketing-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/growth-marketing-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/content-marketing-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/social-media-brand-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/campus-ambassador-campus-relations-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/business-development-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/ai-ml-engineer-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/ai-engineer",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/backend-developer",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/devops-cloud-engineer",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/marketing-executive",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/hr-talent-acquisition-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/growth-manager",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/content-strategist",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/business-development-executive",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/full-stack-developer-intern",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/careers/full-stack-developer",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/loneliness-in-college",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/busy-not-smart",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/no-direction-after-four-years",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/hostel-nights-heart-to-hearts",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/silent-battle-self-doubt",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/perfect-timeline-myth",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/attendance-chase",
+      "issue": "Missing rel=canonical"
+    },
+    {
+      "url": "https://www.cynbit.in/diaries/hustle-culture-side-effects",
+      "issue": "Missing rel=canonical"
+    }
+  ],
+  "og_issues": [
+    {
+      "url": "https://www.cynbit.in/case-studies/retail-seo-growth",
+      "issue": "Incomplete OpenGraph tags"
+    }
+  ],
+  "structured_data_issues": [],
+  "content_quality_findings": [
+    {
+      "url": "https://www.cynbit.in/contact",
+      "type": "Placeholder Text Found",
+      "keyword": "placeholder"
+    },
+    {
+      "url": "https://www.cynbit.in/products",
+      "type": "Placeholder Text Found",
+      "keyword": "placeholder"
+    },
+    {
+      "url": "https://www.cynbit.in/bitelevate",
+      "type": "Placeholder Text Found",
+      "keyword": "placeholder"
+    },
+    {
+      "url": "https://www.cynbit.in/blog",
+      "type": "Placeholder Text Found",
+      "keyword": "placeholder"
+    }
+  ],
+  "image_alt_summary": {
+    "total_images_scanned": 159,
+    "images_missing_alt": 0,
+    "sample_missing_alt": []
+  },
+  "summary": {
+    "total_pages": 82,
+    "missing_titles_count": 1,
+    "missing_descriptions_count": 1,
+    "canonical_domain_mismatches_count": 1,
+    "total_images_missing_alt": 0
+  }
+}

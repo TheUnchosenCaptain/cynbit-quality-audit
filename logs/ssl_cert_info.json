@@ -1,0 +1,21 @@
+{
+  "version": "TLSv1.3",
+  "cipher": [
+    "TLS_AES_128_GCM_SHA256",
+    "TLSv1.3",
+    128
+  ],
+  "subject": {
+    "commonName": "www.cynbit.in"
+  },
+  "issuer": {
+    "countryName": "US",
+    "organizationName": "Let's Encrypt",
+    "commonName": "YR2"
+  },
+  "notBefore": "Sep 25 04:47:44 2026 GMT",
+  "notAfter": "Dec 24 04:47:43 2026 GMT",
+  "san": [
+    "www.cynbit.in"
+  ]
+}

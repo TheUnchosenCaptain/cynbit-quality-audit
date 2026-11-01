@@ -1,0 +1,46 @@
+{
+  "newsletter": {
+    "emptyValidity": {
+      "valid": false,
+      "msg": "Please fill out this field."
+    },
+    "invalidEmailValidity": {
+      "valid": false,
+      "msg": "Please include an '@' in the email address. 'not-an-email' is missing an '@'."
+    }
+  },
+  "careerApplication": {
+    "emptyRequiredFieldsCount": 14,
+    "invalidFieldsSample": [
+      {
+        "name": "fullName",
+        "type": "text",
+        "msg": "Please fill out this field."
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "msg": "Please fill out this field."
+      },
+      {
+        "name": "phone",
+        "type": "text",
+        "msg": "Please fill out this field."
+      },
+      {
+        "name": "whatsapp",
+        "type": "text",
+        "msg": "Please fill out this field."
+      },
+      {
+        "name": "dob",
+        "type": "date",
+        "msg": "Please fill out this field."
+      }
+    ],
+    "urlValidity": {
+      "valid": false,
+      "msg": "Please enter a URL."
+    }
+  }
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "path": "/.env",
+    "url": "https://www.cynbit.in/.env",
+    "status": 404,
+    "reason": "Not Found",
+    "size_bytes": 15072,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  },
+  {
+    "path": "/.git/HEAD",
+    "url": "https://www.cynbit.in/.git/HEAD",
+    "status": 404,
+    "reason": "Not Found",
+    "size_bytes": 15072,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  },
+  {
+    "path": "/admin",
+    "url": "https://www.cynbit.in/admin",
+    "status": 404,
+    "reason": "Not Found",
+    "size_bytes": 15072,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  },
+  {
+    "path": "/portal",
+    "url": "https://www.cynbit.in/portal",
+    "status": 200,
+    "reason": "OK",
+    "size_bytes": 12979,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  },
+  {
+    "path": "/api",
+    "url": "https://www.cynbit.in/api",
+    "status": 404,
+    "reason": "Not Found",
+    "size_bytes": 15072,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  },
+  {
+    "path": "/api/v1",
+    "url": "https://www.cynbit.in/api/v1",
+    "status": 404,
+    "reason": "Not Found",
+    "size_bytes": 15072,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  },
+  {
+    "path": "/wp-login.php",
+    "url": "https://www.cynbit.in/wp-login.php",
+    "status": 403,
+    "reason": "Forbidden",
+    "size_bytes": 59,
+    "snippet": "Forbidden\n\nForbidden\nbom1::fzjvx-1793559581051-e185848b62da"
+  },
+  {
+    "path": "/.DS_Store",
+    "url": "https://www.cynbit.in/.DS_Store",
+    "status": 404,
+    "reason": "Not Found",
+    "size_bytes": 15072,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  },
+  {
+    "path": "/package.json",
+    "url": "https://www.cynbit.in/package.json",
+    "status": 404,
+    "reason": "Not Found",
+    "size_bytes": 15072,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  },
+  {
+    "path": "/server.js",
+    "url": "https://www.cynbit.in/server.js",
+    "status": 404,
+    "reason": "Not Found",
+    "size_bytes": 15072,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  },
+  {
+    "path": "/robots.txt",
+    "url": "https://www.cynbit.in/robots.txt",
+    "status": 200,
+    "reason": "OK",
+    "size_bytes": 200,
+    "snippet": "User-agent: *\nAllow: /\n\n# Sitemap Location\nSitemap: https://cynbit.in/sitemap.xml\n\n# Crawl Delay\nCrawl-delay: 1\n\n# Disallow specific non-SEO pages\nDisallow: /api/\nDisallow: /admin/\nDisallow: /portal/\n"
+  },
+  {
+    "path": "/sitemap.xml",
+    "url": "https://www.cynbit.in/sitemap.xml",
+    "status": 200,
+    "reason": "OK",
+    "size_bytes": 14264,
+    "snippet": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://cynbit.in</loc>\n<lastmod>2026-11-01T18:59:43.741Z</lastmod>\n<changefreq>weekly</c"
+  },
+  {
+    "path": "/security.txt",
+    "url": "https://www.cynbit.in/security.txt",
+    "status": 404,
+    "reason": "Not Found",
+    "size_bytes": 15072,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  },
+  {
+    "path": "/.well-known/security.txt",
+    "url": "https://www.cynbit.in/.well-known/security.txt",
+    "status": 404,
+    "reason": "Not Found",
+    "size_bytes": 15072,
+    "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-widt"
+  }
+]

@@ -1,0 +1,289 @@
+{
+  "target": "https://www.cynbit.in",
+  "tls": {
+    "protocol_version": "TLSv1.3",
+    "cipher": [
+      "TLS_AES_128_GCM_SHA256",
+      "TLSv1.3",
+      128
+    ],
+    "subject": {
+      "commonName": "www.cynbit.in"
+    },
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Let's Encrypt",
+      "commonName": "YR2"
+    },
+    "notBefore": "Sep 25 04:47:44 2026 GMT",
+    "notAfter": "Dec 24 04:47:43 2026 GMT",
+    "san": [
+      "www.cynbit.in"
+    ]
+  },
+  "security_headers": {
+    "all_headers": {
+      "Accept-Ranges": "bytes",
+      "Access-Control-Allow-Origin": "*",
+      "Age": "280410",
+      "Cache-Control": "public, max-age=0, must-revalidate",
+      "Content-Disposition": "inline",
+      "Content-Length": "100498",
+      "Content-Type": "text/html; charset=utf-8",
+      "Date": "Sun, 01 Nov 2026 19:05:42 GMT",
+      "Etag": "\"babdce9795e4ef3d84461090987852d3\"",
+      "Server": "Vercel",
+      "Strict-Transport-Security": "max-age=63072000",
+      "Vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+      "X-Matched-Path": "/",
+      "X-Nextjs-Prerender": "1",
+      "X-Nextjs-Stale-Time": "300",
+      "X-Vercel-Cache": "HIT",
+      "X-Vercel-Id": "bom1::dgwh8-1793559942037-6d8737a85068",
+      "Connection": "close"
+    },
+    "evaluation": {
+      "strict-transport-security": {
+        "present": true,
+        "value": "max-age=63072000",
+        "description": "HSTS ensures forced HTTPS",
+        "pass": true
+      },
+      "content-security-policy": {
+        "present": false,
+        "value": null,
+        "description": "CSP mitigates XSS and data injection",
+        "pass": false
+      },
+      "x-frame-options": {
+        "present": false,
+        "value": null,
+        "description": "Clickjacking defense (anti-framing)",
+        "pass": false
+      },
+      "x-content-type-options": {
+        "present": false,
+        "value": null,
+        "description": "Prevents MIME-sniffing (nosniff)",
+        "pass": false
+      },
+      "referrer-policy": {
+        "present": false,
+        "value": null,
+        "description": "Controls referrer leakage across origins",
+        "pass": false
+      },
+      "permissions-policy": {
+        "present": false,
+        "value": null,
+        "description": "Restricts browser feature APIs (camera, mic, geolocation)",
+        "pass": false
+      },
+      "cross-origin-opener-policy": {
+        "present": false,
+        "value": null,
+        "description": "COOP isolates browsing context",
+        "pass": false
+      },
+      "cross-origin-resource-policy": {
+        "present": false,
+        "value": null,
+        "description": "CORP protects resources from unauthorized cross-origin embedding",
+        "pass": false
+      },
+      "cross-origin-embedder-policy": {
+        "present": false,
+        "value": null,
+        "description": "COEP prevents cross-origin resource leaks",
+        "pass": false
+      }
+    },
+    "missing_headers": [
+      "content-security-policy",
+      "x-frame-options",
+      "x-content-type-options",
+      "referrer-policy",
+      "permissions-policy",
+      "cross-origin-opener-policy",
+      "cross-origin-resource-policy",
+      "cross-origin-embedder-policy"
+    ]
+  },
+  "cookies": [],
+  "cors": {
+    "access_control_allow_origin": "*",
+    "access_control_allow_credentials": null,
+    "wildcard_with_credentials": false
+  },
+  "sensitive_files": {
+    "/.env": {
+      "status": 404,
+      "accessible": false,
+      "snippet": "HTTPError 404"
+    },
+    "/.git/HEAD": {
+      "status": 404,
+      "accessible": false,
+      "snippet": "HTTPError 404"
+    },
+    "/.git/config": {
+      "status": 404,
+      "accessible": false,
+      "snippet": "HTTPError 404"
+    },
+    "/wp-login.php": {
+      "status": 403,
+      "accessible": false,
+      "snippet": "HTTPError 403"
+    },
+    "/admin": {
+      "status": 404,
+      "accessible": false,
+      "snippet": "HTTPError 404"
+    },
+    "/portal": {
+      "status": 200,
+      "size": 500,
+      "accessible": true,
+      "snippet": "<!DOCTYPE html><!--x_Rd73BtzTiCyyJyTHd5H--><html lang=\"en\" class=\"__variable_64a611 __variable_855f89 light scroll-smooth\"><head><meta charSet=\"utf-8\""
+    },
+    "/api": {
+      "status": 404,
+      "accessible": false,
+      "snippet": "HTTPError 404"
+    },
+    "/server.js": {
+      "status": 404,
+      "accessible": false,
+      "snippet": "HTTPError 404"
+    },
+    "/package.json": {
+      "status": 404,
+      "accessible": false,
+      "snippet": "HTTPError 404"
+    },
+    "/robots.txt": {
+      "status": 200,
+      "size": 200,
+      "accessible": true,
+      "snippet": "User-agent: * Allow: /  # Sitemap Location Sitemap: https://cynbit.in/sitemap.xml  # Crawl Delay Crawl-delay: 1  # Disallow specific non-SEO pages Dis"
+    },
+    "/sitemap.xml": {
+      "status": 200,
+      "size": 500,
+      "accessible": true,
+      "snippet": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>https://cynbit.in</loc> <lastmod>2026-1"
+    },
+    "/security.txt": {
+      "status": 404,
+      "accessible": false,
+      "snippet": "HTTPError 404"
+    },
+    "/.well-known/security.txt": {
+      "status": 404,
+      "accessible": false,
+      "snippet": "HTTPError 404"
+    }
+  },
+  "js_bundle_analysis": {
+    "total_bundles_analyzed": 12,
+    "accessible_source_maps": 0,
+    "bundles": [
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1304.js",
+        "size_bytes": 173892,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js",
+        "size_bytes": 173025,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/layout-db39ce8334f77a17.js",
+        "size_bytes": 26611,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7933.js",
+        "size_bytes": 13604,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/webpack-754f00459b705219.js",
+        "size_bytes": 4225,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/app/layout-a3be080c948eebc3.js",
+        "size_bytes": 9010,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/main-app-0ee650784ad95c4e.js",
+        "size_bytes": 527,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/app/error-8e28947332869732.js",
+        "size_bytes": 4994,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+        "size_bytes": 127487,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab92ce.js",
+        "size_bytes": 5990,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/app/not-found-6bdce7b330d1cbd7.js",
+        "size_bytes": 3512,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      },
+      {
+        "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/page-786d2581113641b8.js",
+        "size_bytes": 43289,
+        "has_source_map_reference": false,
+        "source_map_publicly_accessible": false,
+        "potential_api_keys": []
+      }
+    ]
+  },
+  "security_grade": {
+    "score": 0,
+    "grade": "F",
+    "notes": "Grade calculated based on Mozilla Observatory / SecurityHeaders.com criteria. Site has HSTS but lacks CSP, X-Frame-Options, X-Content-Type-Options, Referrer-Policy, and Permissions-Policy."
+  },
+  "information_disclosure": {
+    "server": "Vercel",
+    "x-vercel-id": "bom1::dgwh8-1793559942037-6d8737a85068",
+    "x-nextjs-prerender": "1",
+    "x-matched-path": "/"
+  }
+}

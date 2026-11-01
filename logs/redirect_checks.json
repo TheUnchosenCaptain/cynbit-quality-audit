@@ -1,0 +1,14 @@
+{
+  "http://cynbit.in": {
+    "status": 200,
+    "final_url": "https://www.cynbit.in/"
+  },
+  "http://www.cynbit.in": {
+    "status": 200,
+    "final_url": "https://www.cynbit.in/"
+  },
+  "https://cynbit.in": {
+    "status": 200,
+    "final_url": "https://www.cynbit.in/"
+  }
+}

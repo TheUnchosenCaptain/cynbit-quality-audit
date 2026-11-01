@@ -1,0 +1,353 @@
+{
+  "contactForm": {
+    "detectedForms": 1,
+    "detectedInputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "fullName",
+        "id": "",
+        "placeholder": "e.g. Alex Rivera",
+        "required": true
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "alex@example.com",
+        "required": true
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "company",
+        "id": "",
+        "placeholder": "Your Organization",
+        "required": false
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "industry",
+        "id": "",
+        "placeholder": "e.g. Fintech, Healthcare",
+        "required": false
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "message",
+        "id": "",
+        "placeholder": "How can we help you architect your next chapter?",
+        "required": true
+      }
+    ],
+    "emptySubmission": {
+      "prevented": true,
+      "html5InvalidFields": [
+        {
+          "name": "fullName",
+          "msg": "Please fill out this field."
+        },
+        {
+          "name": "email",
+          "msg": "Please fill out this field."
+        },
+        {
+          "name": "message",
+          "msg": "Please fill out this field."
+        }
+      ],
+      "visibleErrors": [
+        ""
+      ]
+    },
+    "invalidEmail": {
+      "emailValidation": {
+        "valid": false,
+        "message": "Please include an '@' in the email address. 'invalid-email-format' is missing an '@'."
+      }
+    },
+    "xssPayloadTesting": {
+      "acceptedInInputs": true
+    },
+    "happyPath": {
+      "submitted": true,
+      "networkCalls": [
+        {
+          "url": "https://www.cynbit.in/contact",
+          "method": "POST",
+          "postData": "------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"_1_fullName\"\r\n\r\nQA Test\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"_1_email\"\r\n\r\nqa.test+cynbit@example.com\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"_1_company\"\r\n\r\n\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"_1_industry\"\r\n\r\n\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"_1_message\"\r\n\r\nAutomated QA test, please ignore\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"0\"\r\n\r\n[\"$K1\"]\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN--\r\n"
+        },
+        {
+          "url": "https://analytics.google.com/g/collect?v=2&tid=G-LK6CQWCWX0&gtm=45je6as1v9195047755za208zd9195047755xf1&_p=1793559766927&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACQC&cid=495249743.1793559757&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-gb&_s=1&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385422~120420416~120469145~120469153~121246026~121246034~123691370&sid=1793559757&sct=1&seg=1&dl=https%3A%2F%2Fwww.cynbit.in%2Fthis-page-definitely-does-not-exist-qa-404&dt=Cynbit%20Technologies%20%7C%20AI%20Automation%20%26%20Software%20Solutions%20Jaipur&en=page_view&_ee=1&tfd=168",
+          "method": "POST",
+          "postData": null
+        }
+      ],
+      "urlAfterSubmit": "https://www.cynbit.in/contact"
+    }
+  },
+  "navigation": {
+    "desktopLinks": [
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/"
+      },
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/story"
+      },
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/team"
+      },
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/careers"
+      },
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/impact"
+      },
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/services"
+      },
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/products"
+      },
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/case-studies"
+      },
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/bitelevate"
+      },
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/bitelevate/paths"
+      },
+      {
+        "text": "",
+        "href": "https://www.cynbit.in/diaries"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://www.cynbit.in/blog"
+      },
+      {
+        "text": "CONTACT",
+        "href": "https://www.cynbit.in/contact"
+      },
+      {
+        "text": "history_eduOur Story",
+        "href": "https://www.cynbit.in/story"
+      },
+      {
+        "text": "groupsOur Team",
+        "href": "https://www.cynbit.in/team"
+      },
+      {
+        "text": "workCareers",
+        "href": "https://www.cynbit.in/careers"
+      },
+      {
+        "text": "publicSocial Impact",
+        "href": "https://www.cynbit.in/impact"
+      },
+      {
+        "text": "terminalServices Hub",
+        "href": "https://www.cynbit.in/services"
+      },
+      {
+        "text": "inventory_2Product Suite",
+        "href": "https://www.cynbit.in/products"
+      },
+      {
+        "text": "auto_graphCase Studies",
+        "href": "https://www.cynbit.in/case-studies"
+      },
+      {
+        "text": "schoolThe Ecosystem",
+        "href": "https://www.cynbit.in/bitelevate"
+      },
+      {
+        "text": "routeLearning Paths",
+        "href": "https://www.cynbit.in/bitelevate/paths"
+      },
+      {
+        "text": "auto_storiesStudent Diaries",
+        "href": "https://www.cynbit.in/diaries"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.cynbit.in/blog"
+      },
+      {
+        "text": "Contact",
+        "href": "https://www.cynbit.in/contact"
+      },
+      {
+        "text": "homeHome",
+        "href": "https://www.cynbit.in/"
+      },
+      {
+        "text": "grid_viewServices",
+        "href": "https://www.cynbit.in/services"
+      },
+      {
+        "text": "inventory_2Products",
+        "href": "https://www.cynbit.in/products"
+      },
+      {
+        "text": "schoolBitElevate",
+        "href": "https://www.cynbit.in/bitelevate"
+      },
+      {
+        "text": "mailContact",
+        "href": "https://www.cynbit.in/contact"
+      }
+    ]
+  },
+  "mobileMenu": {},
+  "notFoundPage": {
+    "testedUrl": "https://www.cynbit.in/this-page-definitely-does-not-exist-qa-404",
+    "statusCode": 404,
+    "pageTitle": "Cynbit Technologies | AI Automation & Software Solutions Jaipur",
+    "headings": [
+      "Node Not Found."
+    ]
+  },
+  "jsDisabled": {
+    "bodyPreview": "COMPANY\nexpand_more\nEXPERTISE\nexpand_more\nBITELEVATE\nexpand_more\nBLOG\nCONTACT\nJOIN US\nTHE OPTIMISTIC ARCHITECT\nArchitecting the future with\nAI automation.\nCynbit Technologies: Leading AI Automation and Software Solutions Company in Jaipur, India.\n\nCynbit Technologies architects the digital future wi",
+    "renderedContentLength": 300
+  },
+  "keyboardNav": {
+    "tabSequence": [
+      {
+        "tag": "a",
+        "id": "",
+        "className": "flex items-center hover:scale-105 active:scale-95 transition-transform duration-200",
+        "text": "",
+        "outline": "rgb(16, 16, 16) auto 1px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "className": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant",
+        "text": "COMPANY\nexpand_more",
+        "outline": "rgb(62, 73, 74) auto 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "className": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant",
+        "text": "EXPERTISE\nexpand_more",
+        "outline": "rgb(62, 73, 74) auto 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "className": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant",
+        "text": "BITELEVATE\nexpand_more",
+        "outline": "rgb(62, 73, 74) auto 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "className": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] transition-all hover:text-primary relative after:absolute after:bottom-0 after:left-4 after:right-4 after:h-0.5 after:bg-primary after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-300 text-on-surface-variant",
+        "text": "BLOG",
+        "outline": "rgb(62, 73, 74) auto 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "className": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] transition-all hover:text-primary relative after:absolute after:bottom-0 after:left-4 after:right-4 after:h-0.5 after:bg-primary after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-300 text-on-surface-variant",
+        "text": "CONTACT",
+        "outline": "rgb(62, 73, 74) auto 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "className": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200",
+        "text": "JOIN US",
+        "outline": "rgb(255, 255, 255) auto 3px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px"
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "className": "text-primary hover:underline underline-offset-4",
+        "text": "autonomous AI agents",
+        "outline": "rgb(16, 16, 16) auto 1px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "className": "",
+        "text": "Start discovery\narrow_forward",
+        "outline": "rgb(16, 16, 16) auto 1px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "className": "bg-primary text-white px-10 py-5 rounded-full font-bold text-lg shadow-xl hover:bg-primary/90 hover:-translate-y-1 active:scale-95 transition-all flex items-center gap-3 group/btn",
+        "text": "Start discovery\narrow_forward",
+        "outline": "rgb(255, 255, 255) auto 3px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px"
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "className": "",
+        "text": "View work",
+        "outline": "rgb(16, 16, 16) auto 1px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "button",
+        "id": "",
+        "className": "bg-surface-container-highest/50 backdrop-blur-md text-on-surface px-10 py-5 rounded-full font-bold text-lg transition-all shadow-lg hover:bg-surface-container-high hover:-translate-y-1 active:scale-95 border border-outline-variant/10",
+        "text": "View work",
+        "outline": "rgb(24, 28, 29) auto 3px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px"
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "className": "bg-surface-container p-6 rounded-2xl border border-outline-variant/15 hover:border-primary/40 transition-all group/link",
+        "text": "AI AUTOMATION\nLLM & AGENTS",
+        "outline": "rgb(24, 28, 29) auto 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "className": "bg-surface-container p-6 rounded-2xl border border-outline-variant/15 hover:border-secondary/40 transition-all group/link",
+        "text": "SOFTWARE DEV\nWEB & MOBILE",
+        "outline": "rgb(24, 28, 29) auto 3px",
+        "boxShadow": "none"
+      },
+      {
+        "tag": "a",
+        "id": "",
+        "className": "bg-surface-container p-6 rounded-2xl border border-outline-variant/15 hover:border-tertiary/40 transition-all group/link",
+        "text": "CLOUD SYSTEMS\nAWS & AZURE",
+        "outline": "rgb(24, 28, 29) auto 3px",
+        "boxShadow": "none"
+      }
+    ]
+  }
+}

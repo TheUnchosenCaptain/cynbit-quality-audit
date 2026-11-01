@@ -1,0 +1,842 @@
+[
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/media/8760c4774489e4ba-s.p.woff2",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/logo.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/css/ab1584e3d32cd2d2.css",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/css/2111bc7b10569bdd.css",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/webpack-754f00459b705219.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1304.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/main-app-0ee650784ad95c4e.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d946.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/error-8e28947332869732.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/not-found-6bdce7b330d1cbd7.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/layout-a3be080c948eebc3.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7933.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab92ce.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/layout-db39ce8334f77a17.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/template-a9d572c12d5d324b.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/page-786d2581113641b8.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/global-error-2ee825408f612079.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/story?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/team?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/careers?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/impact?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/services?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/services/page-5af223ed01945c67.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/products?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/team/page-ce0cc5322ab85b94.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/case-studies?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/impact/page-c48e32c7f029c7a2.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/bitelevate?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/story/page-cdf573280352ff1e.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/bitelevate/paths?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-LK6CQWCWX0&gtm=45je6as1v9195047755za208zd9195047755xf1&_p=1793559757219&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACAC&cid=495249743.1793559757&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=19&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-gb&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123620775~123691370&sid=1793559757&sct=1&seg=0&dl=https%3A%2F%2Fwww.cynbit.in%2F&dt=Cynbit%20Technologies%20%7C%20AI%20Automation%20%26%20Software%20Solutions%20Jaipur%20%7C%20Cynbit%20Technologies&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=3451",
+    "postData": null
+  },
+  {
+    "method": "POST",
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-LK6CQWCWX0&cid=495249743.1793559757&gtm=45je6as1v9195047755za208zd9195047755xf1&rcb=19&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123620775~123691370",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/products/page-637d1c81fb1ea500.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/diaries?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/blog?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/paths/page-49e34297bc1f0ff0.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/contact?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/blog/ai-agents-business-operations?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/contact/page-a581c8d7462124d9.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/contact",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/media/8760c4774489e4ba-s.p.woff2",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/logo.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/css/ab1584e3d32cd2d2.css",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/css/2111bc7b10569bdd.css",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/webpack-754f00459b705219.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1304.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/main-app-0ee650784ad95c4e.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d946.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/error-8e28947332869732.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/not-found-6bdce7b330d1cbd7.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/layout-a3be080c948eebc3.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7933.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab92ce.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/layout-db39ce8334f77a17.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/template-a9d572c12d5d324b.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/contact/page-a581c8d7462124d9.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/global-error-2ee825408f612079.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/story?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/team?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/careers?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/impact?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/impact/page-c48e32c7f029c7a2.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/services?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/team/page-ce0cc5322ab85b94.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/products?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/story/page-cdf573280352ff1e.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/case-studies?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/page-786d2581113641b8.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/bitelevate?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/bitelevate/paths?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/paths/page-49e34297bc1f0ff0.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/diaries?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/blog?_rsc=ngg3goDW_teuOlgj",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/products/page-637d1c81fb1ea500.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/services/page-5af223ed01945c67.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/icons/linkedin.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/icons/instagram.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/icons/facebook.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/icons/twitter.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/icons/location.svg",
+    "postData": null
+  },
+  {
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-LK6CQWCWX0&gtm=45je6as1v9195047755za208zd9195047755xf1&_p=1793559759094&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACQC&cid=495249743.1793559757&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=13&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-gb&_s=1&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&sid=1793559757&sct=1&seg=1&dl=https%3A%2F%2Fwww.cynbit.in%2Fcontact&dt=Contact%20Us%20%7C%20Cynbit%20Technologies%20-%20AI%20%26%20Software%20Solutions%20%7C%20Cynbit%20Technologies&en=page_view&_ee=1&tfd=3178",
+    "postData": null
+  },
+  {
+    "method": "POST",
+    "url": "https://www.cynbit.in/contact",
+    "postData": "------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"_1_fullName\"\r\n\r\nQA Test\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"_1_email\"\r\n\r\nqa.test+cynbit@example.com\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"_1_company\"\r\n\r\n\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"_1_industry\"\r\n\r\n\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"_1_message\"\r\n\r\nAutomated QA test, please ignore\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN\r\nContent-Disposition: form-data; name=\"0\"\r\n\r\n[\"$K1\"]\r\n------WebKitFormBoundary5UIUzcpbcwqQAqMN--\r\n"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fwww.transparenttextures.com%2Fpatterns%2Fcubes.png&w=1920&q=75",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravatar.cc%2F150%3Fu%3D41&w=1920&q=75",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravatar.cc%2F150%3Fu%3D42&w=1920&q=75",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravatar.cc%2F150%3Fu%3D43&w=1920&q=75",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravatar.cc%2F150%3Fu%3D44&w=1920&q=75",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/this-page-definitely-does-not-exist-qa-404",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/media/8760c4774489e4ba-s.p.woff2",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/css/ab1584e3d32cd2d2.css",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/css/2111bc7b10569bdd.css",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/webpack-754f00459b705219.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1304.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/main-app-0ee650784ad95c4e.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d946.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/error-8e28947332869732.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/not-found-6bdce7b330d1cbd7.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/layout-a3be080c948eebc3.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/global-error-2ee825408f612079.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/?_rsc=0JRbJX4JgpfuvHsr",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/contact?_rsc=0JRbJX4JgpfuvHsr",
+    "postData": null
+  },
+  {
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-LK6CQWCWX0&gtm=45je6as1v9195047755za208zd9195047755xf1&_p=1793559766927&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACQC&cid=495249743.1793559757&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4%7CHeadlessChrome%3B156.0.8078.4&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-gb&_s=1&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385422~120420416~120469145~120469153~121246026~121246034~123691370&sid=1793559757&sct=1&seg=1&dl=https%3A%2F%2Fwww.cynbit.in%2Fthis-page-definitely-does-not-exist-qa-404&dt=Cynbit%20Technologies%20%7C%20AI%20Automation%20%26%20Software%20Solutions%20Jaipur&en=page_view&_ee=1&tfd=168",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7933.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab92ce.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/layout-db39ce8334f77a17.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/template-a9d572c12d5d324b.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/page-786d2581113641b8.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/contact/page-a581c8d7462124d9.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/media/8760c4774489e4ba-s.p.woff2",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/logo.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/css/ab1584e3d32cd2d2.css",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/css/2111bc7b10569bdd.css",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/webpack-754f00459b705219.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/1255-eae4096fb21f1304.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/main-app-0ee650784ad95c4e.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/2619-04bc32f026a0d946.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/5563-f2fb65d9a5ac2236.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/error-8e28947332869732.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/not-found-6bdce7b330d1cbd7.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/layout-a3be080c948eebc3.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/1356-2ed480e29f4f7933.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/4773-f4ec9607d8ab92ce.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/layout-db39ce8334f77a17.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/template-a9d572c12d5d324b.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/page-786d2581113641b8.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/global-error-2ee825408f612079.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/icons/linkedin.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/icons/instagram.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/icons/facebook.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/icons/twitter.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/icons/location.svg",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/story?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/team?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/careers?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/impact?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/services?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/services/page-5af223ed01945c67.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/products?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/story/page-cdf573280352ff1e.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/case-studies?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/impact/page-c48e32c7f029c7a2.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/bitelevate?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/team/page-ce0cc5322ab85b94.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/bitelevate/paths?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/diaries?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/products/page-637d1c81fb1ea500.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/blog?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/paths/page-49e34297bc1f0ff0.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/contact?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/bitelevate/page-e1cc18fdcf688572.js",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/blog/ai-agents-business-operations?_rsc=SCJVgjZa56qhWaZb",
+    "postData": null
+  },
+  {
+    "method": "GET",
+    "url": "https://www.cynbit.in/_next/static/chunks/app/(marketing)/contact/page-a581c8d7462124d9.js",
+    "postData": null
+  }
+]

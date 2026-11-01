@@ -1,0 +1,737 @@
+[
+  {
+    "url": "https://www.cynbit.in/diaries/busy-not-smart",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/diaries/busy-not-smart",
+    "duration_ms": 1323.93,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=Web Development",
+    "status": 0,
+    "final_url": "https://www.cynbit.in/blog?category=Web Development",
+    "duration_ms": 0.42,
+    "error": "URL can't contain control characters. '/blog?category=Web Development' (found at least ' ')"
+  },
+  {
+    "url": "https://www.cynbit.in/blog",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog",
+    "duration_ms": 762.17,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/diaries/hustle-culture-side-effects",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/diaries/hustle-culture-side-effects",
+    "duration_ms": 969.08,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?page=3",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog?page=3",
+    "duration_ms": 718.32,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/diaries/no-direction-after-four-years",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/diaries/no-direction-after-four-years",
+    "duration_ms": 817.8,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?page=4",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog?page=4",
+    "duration_ms": 826.91,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/ai-ml-engineer-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/ai-ml-engineer-intern",
+    "duration_ms": 743.8,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/contact",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/contact",
+    "duration_ms": 148.94,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/best-automation-tools-2026",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/best-automation-tools-2026",
+    "duration_ms": 920.33,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/digital-marketing-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/digital-marketing-intern",
+    "duration_ms": 2883.77,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/bitelevate/paths",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/bitelevate/paths",
+    "duration_ms": 180.25,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/healthcare-cloud-migration",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/healthcare-cloud-migration",
+    "duration_ms": 834.06,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/fintech-payments-evolution",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/fintech-payments-evolution",
+    "duration_ms": 881.45,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers",
+    "duration_ms": 625.01,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/wizhealth-ai-diagnostic",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/wizhealth-ai-diagnostic",
+    "duration_ms": 865.64,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/devops-cloud-engineer",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/devops-cloud-engineer",
+    "duration_ms": 604.95,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/story",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/story",
+    "duration_ms": 295.19,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/retail-seo-growth",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/retail-seo-growth",
+    "duration_ms": 1035.66,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-transforming-hiring-recruitment",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/ai-transforming-hiring-recruitment",
+    "duration_ms": 706.12,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=IT Strategy",
+    "status": 0,
+    "final_url": "https://www.cynbit.in/blog?category=IT Strategy",
+    "duration_ms": 0.57,
+    "error": "URL can't contain control characters. '/blog?category=IT Strategy' (found at least ' ')"
+  },
+  {
+    "url": "https://www.cynbit.in/bitelevate",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/bitelevate",
+    "duration_ms": 140.25,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/backend-developer",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/backend-developer",
+    "duration_ms": 502.42,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/social-media-brand-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/social-media-brand-intern",
+    "duration_ms": 939.15,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/wild-basil-supply-chain",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/wild-basil-supply-chain",
+    "duration_ms": 688.71,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=AI Chatbots",
+    "status": 0,
+    "final_url": "https://www.cynbit.in/blog?category=AI Chatbots",
+    "duration_ms": 0.4,
+    "error": "URL can't contain control characters. '/blog?category=AI Chatbots' (found at least ' ')"
+  },
+  {
+    "url": "https://www.cynbit.in/careers/qa-testing-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/qa-testing-intern",
+    "duration_ms": 515.4,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/",
+    "duration_ms": 248.86,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/diaries/attendance-chase",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/diaries/attendance-chase",
+    "duration_ms": 680.61,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=SaaS Development",
+    "status": 0,
+    "final_url": "https://www.cynbit.in/blog?category=SaaS Development",
+    "duration_ms": 0.4,
+    "error": "URL can't contain control characters. '/blog?category=SaaS Development' (found at least ' ')"
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=Data Analytics",
+    "status": 0,
+    "final_url": "https://www.cynbit.in/blog?category=Data Analytics",
+    "duration_ms": 0.38,
+    "error": "URL can't contain control characters. '/blog?category=Data Analytics' (found at least ' ')"
+  },
+  {
+    "url": "https://www.cynbit.in/products#tenantease",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/products#tenantease",
+    "duration_ms": 153.14,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/marketing-executive",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/marketing-executive",
+    "duration_ms": 883.1,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/business-development-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/business-development-intern",
+    "duration_ms": 570.52,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/diaries/perfect-timeline-myth",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/diaries/perfect-timeline-myth",
+    "duration_ms": 652.55,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=Software Development",
+    "status": 0,
+    "final_url": "https://www.cynbit.in/blog?category=Software Development",
+    "duration_ms": 0.23,
+    "error": "URL can't contain control characters. '/blog?category=Software Development' (found at least ' ')"
+  },
+  {
+    "url": "https://www.cynbit.in/products#revio",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/products#revio",
+    "duration_ms": 148.39,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/campus-ambassador-campus-relations-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/campus-ambassador-campus-relations-intern",
+    "duration_ms": 580.27,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/content-marketing-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/content-marketing-intern",
+    "duration_ms": 519.6,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-social-media-automation",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/ai-social-media-automation",
+    "duration_ms": 1045.66,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/navigation",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/navigation",
+    "duration_ms": 288.43,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/urban-wardrobe-ar-integration",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/urban-wardrobe-ar-integration",
+    "duration_ms": 867.37,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/efficiency-killing-transformation",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/efficiency-killing-transformation",
+    "duration_ms": 802.65,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/impact",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/impact",
+    "duration_ms": 539.39,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/best-crm-automation-strategies",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/best-crm-automation-strategies",
+    "duration_ms": 1146.57,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/services",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/services",
+    "duration_ms": 448.12,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/evento-ticketing-scalability",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/evento-ticketing-scalability",
+    "duration_ms": 924.8,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-first-learning",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/ai-first-learning",
+    "duration_ms": 795.6,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/growth-manager",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/growth-manager",
+    "duration_ms": 765.26,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/why-data-dashboards-essential",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/why-data-dashboards-essential",
+    "duration_ms": 1137.85,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/growth-marketing-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/growth-marketing-intern",
+    "duration_ms": 592.66,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/small-business-ai-automation",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/small-business-ai-automation",
+    "duration_ms": 707.52,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-powered-business-guide",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/ai-powered-business-guide",
+    "duration_ms": 815.4,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/best-ai-tools-startups",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/best-ai-tools-startups",
+    "duration_ms": 787.01,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/future-ai-customer-support",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/future-ai-customer-support",
+    "duration_ms": 881.45,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/top-productivity-automation-ideas",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/top-productivity-automation-ideas",
+    "duration_ms": 1129.36,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/ai-engineer",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/ai-engineer",
+    "duration_ms": 648.56,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/full-stack-developer-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/full-stack-developer-intern",
+    "duration_ms": 704.76,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/why-startups-need-custom-dashboards",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/why-startups-need-custom-dashboards",
+    "duration_ms": 923.78,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=Business Automation",
+    "status": 0,
+    "final_url": "https://www.cynbit.in/blog?category=Business Automation",
+    "duration_ms": 0.19,
+    "error": "URL can't contain control characters. '/blog?category=Business Automation' (found at least ' ')"
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-lead-generation",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/ai-lead-generation",
+    "duration_ms": 1348.63,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/diaries/silent-battle-self-doubt",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/diaries/silent-battle-self-doubt",
+    "duration_ms": 806.19,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-agents-transforming-business",
+    "status": 404,
+    "final_url": "https://www.cynbit.in/blog/ai-agents-transforming-business",
+    "duration_ms": 562.39,
+    "error": "HTTPError 404"
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/econtentprep-adaptive-learning",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/econtentprep-adaptive-learning",
+    "duration_ms": 764.33,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=Education",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog?category=Education",
+    "duration_ms": 719.7,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/diaries",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/diaries",
+    "duration_ms": 1909.56,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/business-development-executive",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/business-development-executive",
+    "duration_ms": 527.96,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/ui-ux-design-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/ui-ux-design-intern",
+    "duration_ms": 524.18,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=Cloud Architecture",
+    "status": 0,
+    "final_url": "https://www.cynbit.in/blog?category=Cloud Architecture",
+    "duration_ms": 0.65,
+    "error": "URL can't contain control characters. '/blog?category=Cloud Architecture' (found at least ' ')"
+  },
+  {
+    "url": "https://www.cynbit.in/blog/document-extraction-ai-benefits",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/document-extraction-ai-benefits",
+    "duration_ms": 1017.37,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/products#cynbit-studio",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/products#cynbit-studio",
+    "duration_ms": 346.22,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-agents-business-operations",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/ai-agents-business-operations",
+    "duration_ms": 755.19,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/content-strategist",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/content-strategist",
+    "duration_ms": 561.07,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/data-privacy-advantage",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/data-privacy-advantage",
+    "duration_ms": 940.83,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/full-stack-developer",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/full-stack-developer",
+    "duration_ms": 1161.64,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/sofiasa-erp-modernization",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/sofiasa-erp-modernization",
+    "duration_ms": 875.83,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/products",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/products",
+    "duration_ms": 626.94,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?page=5",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog?page=5",
+    "duration_ms": 1195.12,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=Marketing",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog?category=Marketing",
+    "duration_ms": 847.5,
+    "error": null
+  },
+  {
+    "url": "https://www.instagram.com/cynbit.in/",
+    "status": 200,
+    "final_url": "https://www.instagram.com/cynbit.in/",
+    "duration_ms": 1107.89,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?page=0",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog?page=0",
+    "duration_ms": 434.01,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=Community",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog?category=Community",
+    "duration_ms": 760.37,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/top-web-development-trends-2026",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/top-web-development-trends-2026",
+    "duration_ms": 736.28,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/terms",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/terms",
+    "duration_ms": 237.1,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=AI Automation",
+    "status": 0,
+    "final_url": "https://www.cynbit.in/blog?category=AI Automation",
+    "duration_ms": 0.18,
+    "error": "URL can't contain control characters. '/blog?category=AI Automation' (found at least ' ')"
+  },
+  {
+    "url": "https://www.cynbit.in/diaries/loneliness-in-college",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/diaries/loneliness-in-college",
+    "duration_ms": 767.89,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-automation-trends-2026",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/ai-automation-trends-2026",
+    "duration_ms": 759.39,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/team",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/team",
+    "duration_ms": 138.16,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies",
+    "duration_ms": 551.84,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/privacy",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/privacy",
+    "duration_ms": 707.05,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/pragya-healths-remote-monitoring",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/pragya-healths-remote-monitoring",
+    "duration_ms": 752.15,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?category=AI Agents",
+    "status": 0,
+    "final_url": "https://www.cynbit.in/blog?category=AI Agents",
+    "duration_ms": 0.17,
+    "error": "URL can't contain control characters. '/blog?category=AI Agents' (found at least ' ')"
+  },
+  {
+    "url": "https://www.cynbit.in/blog/future-saas-development",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/future-saas-development",
+    "duration_ms": 1201.12,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?page=1",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog?page=1",
+    "duration_ms": 882.75,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog?page=2",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog?page=2",
+    "duration_ms": 720.8,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/marketing-addict-ai-optimization",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/marketing-addict-ai-optimization",
+    "duration_ms": 1892.84,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/hr-talent-acquisition-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/hr-talent-acquisition-intern",
+    "duration_ms": 4141.23,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-vs-traditional-software",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/ai-vs-traditional-software",
+    "duration_ms": 670.82,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/careers/backend-developer-intern",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/careers/backend-developer-intern",
+    "duration_ms": 681.89,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-digital-marketing-revolution",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/ai-digital-marketing-revolution",
+    "duration_ms": 839.45,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/diaries/hostel-nights-heart-to-hearts",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/diaries/hostel-nights-heart-to-hearts",
+    "duration_ms": 949.24,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/cookies",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/cookies",
+    "duration_ms": 378.34,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/cloudy-tales-collaboration",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/cloudy-tales-collaboration",
+    "duration_ms": 802.74,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/case-studies/fashion-headless-commerce",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/case-studies/fashion-headless-commerce",
+    "duration_ms": 785.3,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/blog/ai-chatbots-vs-human-support",
+    "status": 200,
+    "final_url": "https://www.cynbit.in/blog/ai-chatbots-vs-human-support",
+    "duration_ms": 1014.69,
+    "error": null
+  }
+]

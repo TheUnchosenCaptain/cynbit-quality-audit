@@ -1,0 +1,182 @@
+[
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1460925895917-afdab827c52f%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=1920&amp;q=75",
+    "status": 400,
+    "duration_ms": 509.75,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1550751827-4bd374c3f58b%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=1920&amp;q=75",
+    "status": 400,
+    "duration_ms": 240.38,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/icons/facebook.svg",
+    "status": 200,
+    "duration_ms": 278.94,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1499750310107-5fef28a66643%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=1920&amp;q=75",
+    "status": 400,
+    "duration_ms": 235.74,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1542838132-92c53300491e%3Fq%3D80%26w%3D1974%26auto%3Dformat%26fit%3Dcrop&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 311.14,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1531482615713-2afd69097998%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=1920&amp;q=75",
+    "status": 400,
+    "duration_ms": 264.08,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/icons/location.svg",
+    "status": 200,
+    "duration_ms": 322.81,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1531403009284-440f080d1e12%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 283.35,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1576091160550-2173dba999ef%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 272.49,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/logo.svg",
+    "status": 200,
+    "duration_ms": 714.48,
+    "error": null
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=%2Fstudents%2FAditya%20Verma.png&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 1062.34,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravatar.cc%2F100%3Fimg%3D22&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 1349.82,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=%2Fstudents%2FPooja%20Iyer.png&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 469.04,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1521791136064-7986c29596ad%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=1920&amp;q=75",
+    "status": 400,
+    "duration_ms": 296.92,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=%2Fstudents%2FAnanya%20Gupta.png&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 322.54,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fi.pravatar.cc%2F100%3Fimg%3D23&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 361.18,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1488521787991-ed7bbaae773c%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 1687.95,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=%2Fteam%2Fashutosh.png&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 586.55,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1549923746-c502d488b3ea%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=1920&amp;q=75",
+    "status": 400,
+    "duration_ms": 335.11,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552664730-d307ca884978%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=1920&amp;q=75",
+    "status": 400,
+    "duration_ms": 346.05,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1460925895917-afdab827c52f%3Fq%3D80%26w%3D2426%26auto%3Dformat%26fit%3Dcrop&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 518.59,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1518770660439-4636190af475%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 243.45,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1611162617213-7d7a39e9b1d7%3Fq%3D80%26w%3D2074%26auto%3Dformat%26fit%3Dcrop&amp;w=1920&amp;q=75",
+    "status": 400,
+    "duration_ms": 336.79,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1584036561566-baf8f5f1b144%3Fq%3D80%26w%3D2071%26auto%3Dformat%26fit%3Dcrop&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 1420.66,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1519389950473-47ba0277781c%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=1920&amp;q=75",
+    "status": 400,
+    "duration_ms": 256.52,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=%2Fteam%2Fdhawan.png&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 1233.44,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1501504905252-473c47e087f8%3Fq%3D80%26w%3D1974%26auto%3Dformat%26fit%3Dcrop&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 326.12,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=%2Fstudents%2FShruti%20Kulkarni.png&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 304.46,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1555066931-4365d14bab8c%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop&amp;w=1920&amp;q=75",
+    "status": 400,
+    "duration_ms": 401.92,
+    "error": "HTTPError 400"
+  },
+  {
+    "url": "https://www.cynbit.in/_next/image?url=%2Fstudents%2FTanya%20Deshmukh.png&amp;w=3840&amp;q=75",
+    "status": 400,
+    "duration_ms": 700.59,
+    "error": "HTTPError 400"
+  }
+]
